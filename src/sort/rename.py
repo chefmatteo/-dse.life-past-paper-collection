@@ -104,7 +104,6 @@ def main():
 
 # List of directories that need to be sorted
 list_needed_to_be_handled = [
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/econ/2020/Photo", 
     "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/econ/2021/Photos", 
 ]
 
