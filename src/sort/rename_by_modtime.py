@@ -103,16 +103,7 @@ def main():
 
 # List of directories that need to be sorted
 list_needed_to_be_handled = [
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2022/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2021/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2019/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2018/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2017/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2016/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2015/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2014/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2013/photo", 
-    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/phys/2012/photo", 
+    "/Users/matthewng/Desktop/-dse.life-past-paper-collection/dse_files/econ/2020/Photo", 
 ]
 
 if __name__ == "__main__":
